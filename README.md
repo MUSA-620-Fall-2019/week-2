@@ -13,7 +13,7 @@ If you haven't yet, please fill out the initial survey for the class:
 
 https://www.surveymonkey.com/r/BGK3S6Y
 
-# Recommended Readings
+## Recommended Readings
 
 - [Matplotlib chapter of the Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
 
