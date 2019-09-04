@@ -35,7 +35,7 @@ https://www.surveymonkey.com/r/BGK3S6Y
 - [The 7 Kinds of Data Visualization People](https://medium.com/visualizing-the-field/the-7-kinds-of-data-visualization-people-9964e80443a7)
 - [Fast vs Slow Data Visualization](https://medium.com/@Elijah_Meeks/data-visualization-fast-and-slow-d2653d4850b0)
 - [What Charts Say](https://medium.com/@Elijah_Meeks/what-charts-say-6e31cbba2047)
-- [Color Guide](https://blog.datawrapper.de/colorguide/)
+- [Color Guide and Overview of Color Tools](https://blog.datawrapper.de/colorguide/)
 - [The Importance of Grey](http://www.visualisingdata.com/2015/01/make-grey-best-friend/)
 - [2017 PyCon presentation by Jake VanderPlas](https://www.youtube.com/watch?v=FytuB8nFHPQ)
 - [Sample plots in Matplotlib](https://matplotlib.org/tutorials/introductory/sample_plots.html)
