@@ -16,6 +16,9 @@ https://www.surveymonkey.com/r/BGK3S6Y
 ## Recommended Readings
 
 - [Matplotlib chapter of the Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/04.00-introduction-to-matplotlib.html)
+- Altair:
+  - [Introduction to Statistical Visualization](https://altair-viz.github.io/getting_started/starting.html)
+  - [Exploring Seattle Weather: A Case Study](https://altair-viz.github.io/case_studies/exploring-weather.html)
 
 ## Documentation
 
