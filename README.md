@@ -51,3 +51,4 @@ https://www.surveymonkey.com/r/BGK3S6Y
 - [Color Harmonies](http://www.tigercolor.com/color-lab/color-theory/color-harmonies.htm)
 - [Choosing Color Maps in Matplotlib](https://matplotlib.org/tutorials/colors/colormaps.html)
 - [Choosing Color Palettes in seaborn](https://seaborn.pydata.org/tutorial/color_palettes.html)
+- [Names of available color maps in Altair](https://vega.github.io/vega/docs/schemes/)
